@@ -4,9 +4,10 @@
 # HELLO THERE!
 ***My name is rinna, i make stuff for fun :D***
 
-**DISCORD:** _goofisdead_
+##SOCIALS: 
+*Discord:* _goofisdead_
 
-## LANG:
+## LANGUAGES:
 *Py,*
 *GoLang,*
 *JavaScr,*
