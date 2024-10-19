@@ -4,7 +4,7 @@
 # HELLO THERE!
 ***My name is rinna, i make stuff for fun :D***
 
-##SOCIALS: 
+## SOCIALS: 
 *Discord:* _goofisdead_
 
 ## LANGUAGES:
