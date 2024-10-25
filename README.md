@@ -9,13 +9,8 @@
 
 ## LANGUAGES:
 *Py,*
-*GoLang,*
-*JavaScr,*
 *NodeJS,*
-*C++,*
 *Lua*
-
-
 </div>
 
 
