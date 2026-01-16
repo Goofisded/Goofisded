@@ -7,9 +7,9 @@
 ## LANGUAGES:
 *Py,*
 *NodeJS,*
-*GO*
-*Lua*
-*Java*
+*GO,*
+*Lua,*
+*Java,*
 *Bash*
 </div>
 
