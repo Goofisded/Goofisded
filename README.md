@@ -8,6 +8,9 @@
 *Py,*
 *NodeJS,*
 *GO*
+*Lua*
+*Java*
+*Bash*
 </div>
 
 
